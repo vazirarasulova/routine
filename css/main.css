@@ -1,0 +1,35 @@
+.routine{
+  padding: 30px;
+}
+
+.routine__title{
+  text-align: center;
+}
+
+.form{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.form__input{
+  width: 300px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  padding: 8px 5px;
+}
+
+.form__button{
+  width: 100px;
+  padding: 8px 0;
+}
+
+.form__list{
+  display: block;
+  width: 200px;
+  margin: 0 auto;
+  padding: 8px 5px;
+  border: 1px solid black;
+  list-style: none;
+  text-align: left;
+  border-radius: 2px;
+}
